@@ -20,3 +20,5 @@ An experimental HTML-to-ImGui renderer. It allows you to load HTML files and ren
    ```bash
    git clone https://github.com/lztossy/html-imgui.git
    cd html-imgui
+
+2. A demo index.html has been provided, utilize that to create your own ImGui window.
