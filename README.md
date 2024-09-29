@@ -14,15 +14,6 @@ An experimental HTML-to-ImGui renderer. It allows you to load HTML files and ren
 - Dynamic rendering of HTML content from external files.
 - ImGui interaction with buttons and sliders.
 
-## Installation
-
-### Prerequisites
-
-- **C++ Compiler**: Ensure you have a C++ compiler installed.
-- **CMake**: Required for generating build files.
-- **DirectX SDK**: Ensure you have the necessary DirectX dependencies.
-- **Dear ImGui**: This project uses the Dear ImGui framework for rendering.
-
 ### Setup Instructions
 
 1. **Clone the Repository**:
