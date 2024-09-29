@@ -26,4 +26,4 @@ An experimental HTML-to-ImGui renderer. It allows you to load HTML files and ren
 2. A demo index.html has been provided, utilize that to create your own ImGui window.
 
 ### showcase
-[![Watch the video](https://youtu.be/4kydeq5BCLY)]
+https://youtu.be/4kydeq5BCLY
