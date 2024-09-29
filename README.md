@@ -11,6 +11,8 @@ An experimental HTML-to-ImGui renderer. It allows you to load HTML files and ren
   - Divs (`<div>`)
   - Buttons (`<button>`)
   - Sliders (`<slider>`)
+  - Combos (`<combo>`)
+
 - Dynamic rendering of HTML content from external files.
 - ImGui interaction with buttons and sliders.
 
